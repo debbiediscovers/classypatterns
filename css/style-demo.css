@@ -6,7 +6,6 @@ body {
 header {
   height: 100px;
   background: crimson;
-  background: #333;
   border-bottom: 10px solid white; }
   header h1 {
     color: white;
